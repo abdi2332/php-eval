@@ -1,0 +1,1 @@
+{"version":1,"defects":{"UtilsTest::testGeneratedNumberIsGreaterThanEqualMin":4,"UtilsTest::testGeneratedNumberIsLessThanMax":4,"UtilsTest::testStrongRandomNumber":4},"times":{"UtilsTest::testBytesToFetchLength":0.011,"UtilsTest::testGeneratedNumberIsGreaterThanEqualMin":0.019,"UtilsTest::testGeneratedNumberIsLessThanMax":0.001,"UtilsTest::testStrongRandomNumber":0.024}}
